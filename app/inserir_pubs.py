@@ -36,5 +36,6 @@ def inserir_publicacoes(arquivo):
 
 # Executar a função
 if __name__ == "__main__":
-    inserir_publicacoes('/app/pubs.txt')
+    # inserir_publicacoes('/app/pubs.txt')
+    inserir_publicacoes('/app/sp.txt')
 
