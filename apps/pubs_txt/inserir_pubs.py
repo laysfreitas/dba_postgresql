@@ -35,6 +35,5 @@ def inserir_publicacoes(arquivo):
     print(f"{len(publicacoes)} publicações inseridas com sucesso!")
 
 if __name__ == "__main__":
-    # inserir_publicacoes('/app/pubs.txt')
-    inserir_publicacoes('/app/sp.txt')
+    inserir_publicacoes('/app/pubs.txt')
 
